@@ -1,0 +1,5 @@
+Introduce yourself in this file!
+
+Tell us your name, year, school, major (if you are undecided, write down the frontrunners), and a fun fact!
+
+My name is Ashley Alt, and I'm a junior studying data science. A fun fact about me is that I lost my pet turtle.
